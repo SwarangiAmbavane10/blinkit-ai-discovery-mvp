@@ -1,0 +1,10 @@
+{
+  "description": "Discover new product categories effortlessly with AI-driven recommendations for quick purchases, tailored for busy shoppers seeking convenience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
